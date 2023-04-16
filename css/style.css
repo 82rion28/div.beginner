@@ -1,0 +1,31 @@
+div{
+  width: 400px;
+  height: 450px;
+}
+
+#red{
+background-color: #ff0000;
+height: 100px;
+}
+
+#green{
+  width: 150px;
+  height: 250px;
+  background-color: #00ff1e;
+}
+
+#blue{
+  width: 250px;
+  height: 250px;
+  background-color: #3300ff;
+}
+
+#green,#blue{
+  float: left;
+}
+
+#yellow{
+  clear:both;
+  height: 100px;
+  background-color: #ffe600;
+}
